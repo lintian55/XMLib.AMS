@@ -1,0 +1,16 @@
+{
+  "name": "com.peterxiang.xmlib.ams",
+  "version": "1.0.1",
+  "displayName": "XMLib Action Machine System",
+  "description": "XMLib 动作游戏运行系统",
+  "unity": "2019.3",
+  "dependencies": {
+    "com.peterxiang.xmlib.am": "1.0.1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Peter Xiang",
+    "email": "565067150@qq.com",
+    "url": "https://github.com/PxGame"
+  }
+}
